@@ -1,0 +1,5 @@
+.tensorboard/
+__pycache__
+logs/
+pretrained/
+processed_data/
