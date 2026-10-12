@@ -20,7 +20,7 @@ We trained the model on NVIDIA RTX 3090 and 4090 cards, which have 24GB of VRAM.
 
 
 ## Pre-Trained models
-TODO
+see https://huggingface.co/benedikthopf/PMM
 
 
 
